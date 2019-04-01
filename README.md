@@ -16,7 +16,7 @@ The Mars Mining Robot (Overall Mars mining robot of the the NASA Robotic Mining 
 Digging Mechanism (The main mechanism of the Mars Mining Robot, uses bucket chains to dig under the surface to extract regolith),
 TIG  Welded Buckets (Self taught myself to TIG weld and added strength to the sheet metal buckets)
 
-Personal Project:
+Personal Projects:
 3D Printer Encloser (Made to print ABS without warping and to monitor using Octoprint on a Raspberry Pi),
 Humidity Sensor Display (Uses an Arduino Nano, 16x2 LCD I2C Serial Display, and DHT20 sensor to sample humidity and temperature every second),
 Steel D20 Project (20 sided dice made out of 1/8" steel with engravings) - Ongoing
