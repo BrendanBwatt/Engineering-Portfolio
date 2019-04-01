@@ -15,3 +15,8 @@ Senior Design:
 The Mars Mining Robot,
 Digging Mechanism,
 TIG  Welded Buckets
+
+Personal Project:
+3D Printer Encloser
+Humidity Sensor Display
+Steel D20 Project - Ongoing
