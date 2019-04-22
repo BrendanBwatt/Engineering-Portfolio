@@ -1,5 +1,5 @@
 # Engineering-Portfolio
-This is a sample of the engineering work I have done throughout my college career. It is a list collection of school projects, personal projects, and projects for my internships.
+This is a sample of the engineering work I have done throughout my college career. It is a list collection of school projects, personal projects, and projects for my internships. I will be updating my portfolio reguarly as progress continues on my ongoing projects.
 
 School Projects Include:
 The Gearbox Assembly (Designed to so the handle raises the nut 6 inches for every turn),
